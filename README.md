@@ -9,3 +9,7 @@
 # 定義需求:
 
 ## ![](justread2.jpg "justread")
+
+# 甘特圖 :
+
+## ![](justread3.jpg "justread")

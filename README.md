@@ -13,3 +13,7 @@
 # 甘特圖 :
 
 ## ![](justread3.jpg "justread")
+
+# 期中考報告 PPT：
+
+## ![](系統分析與設計報告.pptx "justread")

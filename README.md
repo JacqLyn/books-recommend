@@ -21,3 +21,7 @@
 # 工具 ：
 
 ## Django、Python、SQLite、Word2Vec
+
+# 架構圖 ：
+
+## ![](架構圖.png "justread")

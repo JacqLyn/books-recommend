@@ -28,4 +28,4 @@
 
 # 活動圖 ：
 
-## ![](活動圖.jpg "justread")
+## ![](活動圖.png "justread")

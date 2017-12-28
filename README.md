@@ -12,7 +12,7 @@
 
 # 甘特圖 :
 
-## ![](justread3.jpg "justread")
+## ![](justread3.png "justread")
 
 # 期中考報告 PPT
 
